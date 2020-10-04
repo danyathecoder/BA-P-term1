@@ -1,0 +1,3 @@
+/home/danilapoddubny/Programming/c&c++/exams/test_Clion_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/danilapoddubny/Programming/c&c++/exams/test_Clion_project/cmake-build-debug/CMakeFiles/test_Clion_project.dir
+/home/danilapoddubny/Programming/c&c++/exams/test_Clion_project/cmake-build-debug/CMakeFiles/edit_cache.dir

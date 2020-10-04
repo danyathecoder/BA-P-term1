@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/question_1_1.dir/main.c.o  -o question_1_1 
